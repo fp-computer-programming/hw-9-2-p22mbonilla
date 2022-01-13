@@ -1,6 +1,6 @@
 # Author MB 01/12/2022
 
-def intials():
+def initials():
     for row in rows:
         for a in row:
 
